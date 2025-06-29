@@ -30,13 +30,13 @@ from supabase import create_client, Client
 # Configuration
 class Config:
     # Telegram Bot Configuration
-    API_ID = "YOUR_API_ID"  # Replace with your API ID
-    API_HASH = "YOUR_API_HASH"  # Replace with your API Hash
-    BOT_TOKEN = "YOUR_BOT_TOKEN"  # Replace with your Bot Token
+    API_ID = "22696039"  # Replace with your API ID
+    API_HASH = "00f9cc1d3419e879013f7a9d2d9432e2"  # Replace with your API Hash
+    BOT_TOKEN = "7788824693:AAGvvcsmqibjFO8X9MPDwOy5ybCssQgjuCE"  # Replace with your Bot Token
     
     # Supabase Configuration
-    SUPABASE_URL = "YOUR_SUPABASE_URL"  # Replace with your Supabase URL
-    SUPABASE_KEY = "YOUR_SUPABASE_ANON_KEY"  # Replace with your Supabase Anon Key
+    SUPABASE_URL = "https://mtorjlsxxmghqsnynhfa.supabase.co"  # Replace with your Supabase URL
+    SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im10b3JqbHN4eG1naHFzbnluaGZhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTExMzY0NDUsImV4cCI6MjA2NjcxMjQ0NX0.uJsq0lLlflkDuUAzACxncA0ohwbd_821xtXPnzHBaPE"  # Replace with your Supabase Anon Key
     
     # XP and Coin System
     XP_PER_MESSAGE = 5
